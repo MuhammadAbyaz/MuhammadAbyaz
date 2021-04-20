@@ -1,20 +1,17 @@
-### Hi there 👋, I am Abyaz a 15 yo dev
-
-- 👨🏻‍💻 I’m currently working on
-
-![](./icons/flutter_icon.png)
+### Hi there 👋, I am Abyaz a 16 yo dev
 
 - 📚 I’m currently learning
 
-![](./icons/html_icon.png)
-![](./icons/css_icon.png)
-![](./icons/js_icon.png)
-![](./icons/python_icon.png)
+![](./icons/flutter_icon.png)
+![](./icons/android_icon.png)
 
 - 💻 I’m looking to collaborate on **Flutter** Projects.
 
 - 📫 How to reach me:<br />
 
   [![](./icons/ig_icon.png)](https://www.instagram.com/abyazkhalid/?hl=en)
+    [![](./icons/facebook_icon.png)](https://www.facebook.com/muhammad.abyaz.921)
+      [![](./icons/twitter_icon.png)](https://twitter.com/MuhammadAbyaz1s)
+        [![](./icons/linkedin_icon.png)](https://www.linkedin.com/in/muhammad-abyaz-302172204/)
   
 - 💁🏻‍♂️ Pronouns: **He / Him**
