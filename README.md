@@ -11,7 +11,7 @@
 
   [![](./icons/ig_icon.png)](https://www.instagram.com/abyazkhalid/?hl=en)
     [![](./icons/facebook_icon.png)](https://www.facebook.com/muhammad.abyaz.921)
-      [![](./icons/twitter_icon.png)](https://twitter.com/MuhammadAbyaz1s)
+      [![](./icons/twitter_icon.png)](https://twitter.com/MuhammadAbyaz1)
         [![](./icons/linkedin_icon.png)](https://www.linkedin.com/in/muhammad-abyaz-302172204/)
 
 - GitHub Stats 📈
