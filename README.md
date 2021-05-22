@@ -4,6 +4,7 @@
 
 ![](./icons/flutter_icon.png)
 ![](./icons/android_icon.png)
+![](./icons/java.png)
 
 - 💻 I’m looking to collaborate on **Flutter** Projects.
 
