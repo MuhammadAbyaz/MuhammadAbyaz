@@ -1,12 +1,9 @@
-### Hi there 👋, I am Abyaz a 16 yo dev
+### Hi there 👋, I am Abyaz
 
 - 📚 I’m currently learning
 
-![](./icons/flutter_icon.png)
-![](./icons/android_icon.png)
-![](./icons/java.png)
+   ![](./icons/java.png)
 
-- 💻 I’m looking to collaborate on **Flutter** Projects.
 
 - 📫 How to reach me:<br />
 
@@ -20,4 +17,3 @@
 <img src='https://github-readme-stats.vercel.app/api?username=MuhammadAbyaz&show_icons=true&theme=nightowl' height:'50'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbyaz&theme=nightowl'>
   
-- 💁🏻‍♂️ Pronouns: **He / Him**
