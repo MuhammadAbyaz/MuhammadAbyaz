@@ -8,7 +8,9 @@
 <p align = "center"> 
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadAbyaz&theme=tokyonight">
 </p>
+<p align="center">
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65d4a46dcba7f7159fed57f0?variant=dark&roadmaps=computer-science%2Cpython%2Csql%2Cfull-stack" alt="roadmap.sh"/></a>
+</p>
 <p align='center'>
   🌱 I’m currently learning <br/><br/>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26"/>  
