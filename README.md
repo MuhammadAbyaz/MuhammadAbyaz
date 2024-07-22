@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6"/>
   <img src="https://img.shields.io/badge/javascipt-f3db1d?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23f3db1d&color=%23F7DF1E"/>
   <br/>
-  <img alt="" src="https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=%23009688&labelColor=white&color=white
+  <img alt="" src="https://img.shields.io/badge/fastapi-23009688?style=for-the-badge&logo=fastapi&logoColor=%23009688&labelColor=white&color=white
 ">
   <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=%23000000">
 
