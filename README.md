@@ -13,10 +13,16 @@
 </p>
 <p align='center'>
   🌱 I’m currently learning <br/><br/>
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26"/>  
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6"/>
-  <img src="https://img.shields.io/badge/javascipt-f3db1d?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23f3db1d&color=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%23FFFFFF"
+  />  
+  <img src="https://img.shields.io/badge/nextjs-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23000000&color=%23FFFFFF
+  ">
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&color=%23FFFFFF
+  "/>
+  <img src="https://img.shields.io/badge/go-%2361DAFB?style=for-the-badge&logo=go&logoColor=%2300ADD8&color=%23FFFFFF
+  "/>
   <br/>
-  <img alt="" src="https://img.shields.io/badge/fastapi-23009688?style=for-the-badge&logo=fastapi&logoColor=%23009688&labelColor=white&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=%23000000">
+  <img src="https://img.shields.io/badge/docker-%23000000?style=for-the-badge&logo=docker&logoColor=%232496ED&color=%23FFFFFF">
+  <img src="https://img.shields.io/badge/kubernetes-%23000000?style=for-the-badge&logo=kubernetes&logoColor=%23326CE5&color=%23FFFFFF
+  ">
 </p>
