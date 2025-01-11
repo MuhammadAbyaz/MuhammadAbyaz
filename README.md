@@ -21,4 +21,5 @@
   <br/>
   <img src="https://img.shields.io/badge/docker-%23000000?style=for-the-badge&logo=docker&logoColor=%232496ED&color=%23FFFFFF">
   <img src="https://img.shields.io/badge/kubernetes-%23000000?style=for-the-badge&logo=kubernetes&logoColor=%23326CE5&color=%23FFFFFF">
+  <img src="https://img.shields.io/badge/amazonwebservices-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23232F3E&color=%23FFFFFF">
 </p>
