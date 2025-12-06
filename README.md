@@ -6,7 +6,7 @@
 </p>
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=MuhammadAbyaz&theme=tokyonight&show_icons=true">
+<img src = "https://gh-readme-profile.vercel.app/api?username=MuhammadAbyaz&theme=dark&hide_stroke=true">
 </p>
 <p align="center">
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65d4a46dcba7f7159fed57f0?variant=dark&roadmaps=computer-science%2Cpython%2Csql%2Cfull-stack" alt="roadmap.sh"/></a>
